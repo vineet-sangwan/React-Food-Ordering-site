@@ -1,0 +1,14 @@
+.logo{
+  -webkit-text-stroke: 1px rgb(12, 12, 12);
+  text-shadow: 2px 3px 5px black;
+}
+li{
+  -webkit-text-stroke: 1px rgb(12, 12, 12);
+}
+li:hover{
+  border-bottom: 1px solid white;
+  transition: linear ease-in-out .5s;
+}
+.nav-links{
+  z-index: 100;
+}
